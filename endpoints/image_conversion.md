@@ -36,7 +36,7 @@ input the API gives back three thumbnails.
 
 ### Response
 
-Status: 200
+HTTP-Status: 200
 
 ```json
 {

@@ -25,4 +25,4 @@ informations for the installation process.
     "email": "send",
   }
 }
-``
+```

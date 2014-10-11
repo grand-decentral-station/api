@@ -26,7 +26,7 @@ Every app has to execute a time consuming task now and then.
 ```
 
 ### Response
-Status: 200
+HTTP-Status: 200
 ```json
 {
   "id": 9120,
@@ -54,4 +54,4 @@ $ curl -X DELETE http://localip/api/v1/background_job/1
 
 ## Response
 
-Status: 204
+HTTP-Status: 204
