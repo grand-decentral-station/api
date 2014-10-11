@@ -17,7 +17,7 @@ informations for the installation process.
   "price" : "$4.99",
   "dependencies": [
     "mysql",
-    "ruby"
+    "mri2.1.3"
   ],
   "permissions": {
     "contacts": "friends",
@@ -25,4 +25,4 @@ informations for the installation process.
     "email": "send",
   }
 }
-```
+``
