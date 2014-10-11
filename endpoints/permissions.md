@@ -8,6 +8,7 @@
 
 These are the standard permissions. Every App that wants to provide an internal
 API to its data can create its own permissions, e.g. your finances app can add a
+<<<<<<< HEAD
 »Finance Data Access Permission«**
 
 ## Internal API Communication
@@ -45,3 +46,6 @@ If the permission check fails:
 HTTP-Status: 401
 
 Otherwise the response of the App API will be returned
+=======
+**»Finance Data Access Permission«**
+>>>>>>> f7a2d7a687f4c29554b518f19f36d6ba2b293c09
