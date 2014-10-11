@@ -7,7 +7,7 @@ GD or ImageMagick you can still use it, but it is strongly advised to use the AP
 ## Thumbnail Generation
 
 | &nbsp;   | &nbsp;            |
-| -------- | ----------------- |
+| -------- | ----------------- |
 | Endpoint | /images/thumbnail |
 | Method   | POST              |
 
