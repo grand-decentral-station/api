@@ -38,7 +38,7 @@ user account data.
 ### Response
 
 HTTP-Status: 200
-```
+```json
 {
   "auth": 1,
   "id": 12,
@@ -49,7 +49,7 @@ HTTP-Status: 200
 ```
 
 HTTP-Status 401
-```
+```json
 {
   "auth": 0,
   "error": "Sorry this User/Password combination is unknown"

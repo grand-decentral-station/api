@@ -21,3 +21,6 @@ informations for the installation process.
   ]
 }
 ```
+
+## Possible architecture
+![architecture](../assets/possible_architecture.png)
