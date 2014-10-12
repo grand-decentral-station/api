@@ -11,7 +11,7 @@ informations for the installation process.
   "version": "1.0",
   "author": "MacGyver",
   "url": "http://getbirdyapp.com",
-      "repository": "https://mygit.com/MacGyver/birdapp.git",
+  "repository": "https://mygit.com/MacGyver/birdapp.git",
   "icon" : "assets/images/birdy-icon.svg",
   "screenshots" : "assets/screenshots",
   "price" : "$4.99",
