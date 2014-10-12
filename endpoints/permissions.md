@@ -5,6 +5,7 @@
 - Email
 - Contacts
 - Calendar
+- User Account
 
 These are the standard permissions. Every App that wants to provide an internal
 API to its data can create its own permissions, e.g. your finances app can add a
@@ -20,8 +21,6 @@ itself.
 | -------- | -------------------------------------------- |
 | Endpoint | /api_communication/:app1/:app2/:api_endpoint |
 | Method   | GET, POST, PUT, DELTE                        |
-
-### Parameters
 
 ### Parameters
 

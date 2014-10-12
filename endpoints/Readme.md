@@ -18,11 +18,6 @@ informations for the installation process.
   "dependencies": [
     "mysql",
     "mri2.1.3"
-  ],
-  "permissions": {
-    "contacts": "friends",
-    "filesystem": "r/w",
-    "email": "send",
-  }
+  ]
 }
 ```
