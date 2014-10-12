@@ -33,7 +33,7 @@ itself.
 #### Example
 ```json
 {
-  "permission_key": "1a2b3c"
+  "permission_key": "1a2b3c",
   "payload": ["whatever your api recieves"]
 }
 ```
