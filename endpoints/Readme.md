@@ -15,6 +15,7 @@ informations for the installation process.
   "icon" : "assets/images/birdy-icon.svg",
   "screenshots" : "assets/screenshots",
   "price" : "$4.99",
+  "license" : "proprietary",
   "dependencies": [
     "mysql",
     "mri2.1.3"
